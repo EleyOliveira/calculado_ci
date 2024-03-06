@@ -7,5 +7,5 @@ func main() {
 }
 
 func Multiplicacao(num1 int, num2 int) int {
-	return num1*num2 + 3
+	return num1 * num2
 }
